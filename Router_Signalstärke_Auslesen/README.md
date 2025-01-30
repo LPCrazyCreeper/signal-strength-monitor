@@ -91,7 +91,3 @@ Dieses Projekt steht unter der **MIT-Lizenz**. Das bedeutet:
 
 ---
 
-📌 **Autor**: Dein Name\
-📅 **Letzte Aktualisierung**: `$(date +%Y-%m-%d)`\
-📄 **Lizenz**: MIT License
-
